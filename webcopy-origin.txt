@@ -1,0 +1,548 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\npm\bootstrap@4.6.2\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\npm\bootstrap@4.6.2\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\npm\jquery@3.5.1\dist\jquery.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\npm\popper.js@1.16.1\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\font-awesome\6.2.1\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\OwlCarousel2\2.2.1\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\widgets.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-11476290391
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-231489953-2
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.vithaipileshospital.com/
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\index.htm
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/about-us.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\about-us.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/blogs.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\blogs.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/contact-us.aspx
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\contact-us.aspx.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/contact-us.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/css/main.css
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\css\main.css
+Content Type: text/css
+
+Uri: https://www.vithaipileshospital.com/css/test.css
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\css\test.css
+Content Type: text/css
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-akurdi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-akurdi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-aundh.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-aundh.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-balewadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-balewadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-bhosari.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-bhosari.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-dighi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-dighi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-hinjawadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-hinjawadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-kalewadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-kalewadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-moshi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-moshi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-nigdi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-nigdi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-pashan.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-pashan.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-pcmc.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-pcmc.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-pimple-gurav.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-pimple-gurav.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-pimple-nilakh.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-pimple-nilakh.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-pimple-saudagar.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-pimple-saudagar.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-pimpri-chinchwad.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-pimpri-chinchwad.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-rahatni.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-rahatni.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-ravet.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-ravet.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-vishal-nagar.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-vishal-nagar.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure-treatment-in-wakad.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure-treatment-in-wakad.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fissure.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fissure.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treamtment-in-vishal-nagar.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treamtment-in-vishal-nagar.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-akurdi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-akurdi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-aundh.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-aundh.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-balewadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-balewadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-bhosari.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-bhosari.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-dighi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-dighi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-hinjawadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-hinjawadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-kalawadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-kalawadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-moshi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-moshi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-nigdi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-nigdi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-pashan.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-pashan.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-pcmc.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-pcmc.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-pimple-gurav.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-pimple-gurav.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-pimple-nilakh.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-pimple-nilakh.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-pimple-saudagar.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-pimple-saudagar.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-pimpri-chinchwad.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-pimpri-chinchwad.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-rahatni.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-rahatni.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-ravet.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-ravet.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula-treatment-in-wakad.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula-treatment-in-wakad.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/fistula.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\fistula.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/font/Poppins-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\font\Poppins-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.vithaipileshospital.com/font/Poppins-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\font\Poppins-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.vithaipileshospital.com/font/Poppins-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\font\Poppins-SemiBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.vithaipileshospital.com/images/ajay-raut.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\ajay-raut.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/akashy-patil.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\akashy-patil.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/atul-page.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\atul-page.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/Different-Types.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Different-Types.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/doctor-concern.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\doctor-concern.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/doctors-breadcrums.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\doctors-breadcrums.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/dr-atul-img.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\dr-atul-img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/dr-sarita-img.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\dr-sarita-img.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/Fissure-Banner-1.jpeg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Fissure-Banner-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/fissure-happens.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\fissure-happens.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/fissure-symptoms.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\fissure-symptoms.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/fissure-types.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\fissure-types.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/fistula-happens.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\fistula-happens.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/fistula-symtomps.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\fistula-symtomps.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/fistula-types.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\fistula-types.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/Lady-Piles.jpeg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Lady-Piles.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/Landing-Fissure.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Landing-Fissure.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/Landing-FISTULA.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Landing-FISTULA.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/Landing-Piles.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Landing-Piles.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/location-bg.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\location-bg.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/Meena-jadhav.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Meena-jadhav.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/pcmc-dignosis.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\pcmc-dignosis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/Piles-Banner-1.jpeg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Piles-Banner-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/piles-happens.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\piles-happens.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/piles-symtoms.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\piles-symtoms.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/raveena-roy.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\raveena-roy.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/sarita-page.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\sarita-page.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/treatment-fissure.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\treatment-fissure.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/treatment-fistula.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\treatment-fistula.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/treatment-hernia.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\treatment-hernia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/treatment-piles.jpg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\treatment-piles.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/images/user3.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\user3.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/Vithai-logo.png
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\Vithai-logo.png
+Content Type: image/png
+
+Uri: https://www.vithaipileshospital.com/images/vithai-parallel.jpeg
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\images\vithai-parallel.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.vithaipileshospital.com/index.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\index.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/js/button.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\js\button.js
+Content Type: application/javascript
+
+Uri: https://www.vithaipileshospital.com/js/buttonn.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\js\buttonn.js
+Content Type: application/javascript
+
+Uri: https://www.vithaipileshospital.com/js/form.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\js\form.js
+Content Type: application/javascript
+
+Uri: https://www.vithaipileshospital.com/js/nav.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\js\nav.js
+Content Type: application/javascript
+
+Uri: https://www.vithaipileshospital.com/js/testimonials.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\js\testimonials.js
+Content Type: application/javascript
+
+Uri: https://www.vithaipileshospital.com/js/year.js
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\js\year.js
+Content Type: application/javascript
+
+Uri: https://www.vithaipileshospital.com/our-doctors.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\our-doctors.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-akurdi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-akurdi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-aundh.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-aundh.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-balewadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-balewadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-bhosari.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-bhosari.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-dighi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-dighi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-hinjawadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-hinjawadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-kalewadi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-kalewadi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-moshi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-moshi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-nigdi.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-nigdi.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-pashan.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-pashan.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-pcmc.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-pcmc.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-pimple-gurav.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-pimple-gurav.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-pimple-nilakh.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-pimple-nilakh.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-pimple-saudagar.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-pimple-saudagar.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-pimpri-chinchwad.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-pimpri-chinchwad.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-rahatni.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-rahatni.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-ravet.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-ravet.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-vishal-nagar.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-vishal-nagar.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles-treatment-in-wakad.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles-treatment-in-wakad.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/piles.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\piles.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/testimonials.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\testimonials.html
+Content Type: text/html
+
+Uri: https://www.vithaipileshospital.com/understanding-piles.html
+File Name: C:\Downloaded Web Sites\www.vithaipileshospital.com\understanding-piles.html
+Content Type: text/html
+
